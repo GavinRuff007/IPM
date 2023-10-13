@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/IPM/static/css/main.9aee84a7.css",
+    "main.js": "/IPM/static/js/main.e0dff3aa.js",
+    "static/js/787.2b95c13b.chunk.js": "/IPM/static/js/787.2b95c13b.chunk.js",
+    "static/media/back.jpg": "/IPM/static/media/back.873b658d99b65b8f051f.jpg",
+    "index.html": "/IPM/index.html",
+    "main.9aee84a7.css.map": "/IPM/static/css/main.9aee84a7.css.map",
+    "main.e0dff3aa.js.map": "/IPM/static/js/main.e0dff3aa.js.map",
+    "787.2b95c13b.chunk.js.map": "/IPM/static/js/787.2b95c13b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9aee84a7.css",
+    "static/js/main.e0dff3aa.js"
+  ]
+}
